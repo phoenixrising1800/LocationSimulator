@@ -647,10 +647,10 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = YJ8XYES89R;
+				DEVELOPMENT_TEAM = MGJ39G54TL;
 				FRAMEWORK_SEARCH_PATHS = "";
 				HEADER_SEARCH_PATHS = (
-					"/usr/local/Cellar/libimobiledevice/HEAD-45d7856_6/include",
+					"/usr/local/Cellar/libimobiledevice/HEAD-3d8d13f_6/include",
 					/usr/local/Cellar/libplist/2.1.0/include/,
 				);
 				INFOPLIST_FILE = LocationSimulator/Info.plist;
@@ -660,7 +660,7 @@
 				);
 				LIBRARY_SEARCH_PATHS = (
 					/usr/local/Cellar/libplist/2.1.0/lib,
-					"/usr/local/Cellar/libimobiledevice/HEAD-45d7856_6/lib",
+					"/usr/local/Cellar/libimobiledevice/HEAD-3d8d13f_6/lib",
 					/usr/local/Cellar/libusbmuxd/2.0.1/lib,
 					"/usr/local/Cellar/openssl@1.1/1.1.1d/lib",
 				);
@@ -683,10 +683,10 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = YJ8XYES89R;
+				DEVELOPMENT_TEAM = MGJ39G54TL;
 				FRAMEWORK_SEARCH_PATHS = "";
 				HEADER_SEARCH_PATHS = (
-					"/usr/local/Cellar/libimobiledevice/HEAD-45d7856_6/include",
+					"/usr/local/Cellar/libimobiledevice/HEAD-3d8d13f_6/include",
 					/usr/local/Cellar/libplist/2.1.0/include/,
 				);
 				INFOPLIST_FILE = LocationSimulator/Info.plist;
@@ -696,7 +696,7 @@
 				);
 				LIBRARY_SEARCH_PATHS = (
 					/usr/local/Cellar/libplist/2.1.0/lib,
-					"/usr/local/Cellar/libimobiledevice/HEAD-45d7856_6/lib",
+					"/usr/local/Cellar/libimobiledevice/HEAD-3d8d13f_6/lib",
 					/usr/local/Cellar/libusbmuxd/2.0.1/lib,
 					"/usr/local/Cellar/openssl@1.1/1.1.1d/lib",
 				);
@@ -774,10 +774,10 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = YJ8XYES89R;
+				DEVELOPMENT_TEAM = MGJ39G54TL;
 				FRAMEWORK_SEARCH_PATHS = "";
 				HEADER_SEARCH_PATHS = (
-					"/usr/local/Cellar/libimobiledevice/HEAD-45d7856_6/include",
+					"/usr/local/Cellar/libimobiledevice/HEAD-3d8d13f_6/include",
 					/usr/local/Cellar/libplist/2.1.0/include/,
 				);
 				INFOPLIST_FILE = LocationSimulator/Info.plist;
@@ -787,7 +787,7 @@
 				);
 				LIBRARY_SEARCH_PATHS = (
 					/usr/local/Cellar/libplist/2.1.0/lib,
-					"/usr/local/Cellar/libimobiledevice/HEAD-45d7856_6/lib",
+					"/usr/local/Cellar/libimobiledevice/HEAD-3d8d13f_6/lib",
 					/usr/local/Cellar/libusbmuxd/2.0.1/lib,
 					"/usr/local/Cellar/openssl@1.1/1.1.1d/lib",
 				);
